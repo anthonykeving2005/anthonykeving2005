@@ -1,7 +1,7 @@
 # ✨ About Me
 
 👋 Hi, I’m **Anthony Kevin** – A Passionate Developer Exploring the World of Technology  
-🎓 2nd Year B.Tech CSE Student | Garden City University  
+🎓 3nd Year B.Tech CSE Student | Garden City University  
 💡 Interested in Web Development, Cybersecurity, Machine Learning, and UI/UX  
 🌐 I love building solutions that are **simple**, **secure**, and **impactful**
 
@@ -51,8 +51,8 @@ A responsive website showcasing my skills, projects, and hobbies.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)  
-📧 Email: your-email@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anthony-kevin-77ba80249)  
+📧 Email: ankevin2005@gmail.com
 
 ---
 
