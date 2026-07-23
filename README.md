@@ -9,22 +9,6 @@
 
 ## 🚀 What I’m Working On
 
-🔒 **1. PhishGuard – AI-Based Phishing Detection System**  
-A web tool that uses NLP-based classifiers to detect and alert users about phishing content.  
-**Tech Used:** Python, Flask, Scikit-learn, BeautifulSoup, HTML/CSS  
-**Goal:** Protect users from malicious links and scams in real-time.
-
-🎥 **2. Smart Video Surveillance Recorder**  
-A mini project that captures footage only when motion is detected using a webcam.  
-**Tech Used:** Python, OpenCV, Numpy  
-**Purpose:** Optimize storage and automate home/office surveillance.
-
-🌐 **3. Personal Portfolio Website**  
-A responsive website showcasing my skills, projects, and hobbies.  
-**Tech Used:** HTML, CSS, JavaScript  
-**Hosted On:** Netlify  
-**Goal:** Build my personal brand and presence in the dev community.
-
 ---
 
 ## 💻 My Tech Stack & Tools
